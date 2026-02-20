@@ -22,7 +22,7 @@
     "links": [
       {
         "label": "GitHub",
-        "href": "https://github.com/metatool-ai/metamcp",
+        "href": "https://github.com/LeonAI-DO-YLCS/metamcp",
         "icon": "github"
       },
       {
@@ -142,7 +142,7 @@
   },
   "footer": {
     "socials": {
-      "github": "https://github.com/metatool-ai/metamcp",
+      "github": "https://github.com/LeonAI-DO-YLCS/metamcp",
       "discord": "https://discord.gg/mNsyat7mFX"
     }
   }
